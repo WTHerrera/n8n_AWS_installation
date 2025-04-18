@@ -1,6 +1,4 @@
-# AWS Setup for Docker and Nginx & Certificate with Certbot with n8n
-
-
+# 🚀 Configuración de AWS para Docker🐳 y Nginx y certificado 🔒 con Certbot con n8n 🤖
 
 ### Step 1: Connect to AWS EC2 Instance via SSH
 ```bash
